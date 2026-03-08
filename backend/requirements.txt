@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pymilvus
+langchain
+openai
+pypdf2
+numpy
+pandas
+python-dotenv
+pydantic-settings
+ollama
